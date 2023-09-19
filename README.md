@@ -1,6 +1,6 @@
 # A-16-bit-Computer-Using-Logisim
 
-This is a Computer Organization course project. The goal is to design a functional CPU containing ALU and other major parts.
+The goal is to design a functional CPU containing ALU and other major parts.
 
 The basic computer consists of the following hardware components:
 
